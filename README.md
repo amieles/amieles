@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Mieles</h1>
-<h3 align="center">Currently an data engineer.</h3>
+<h3 align="center">Currently a data engineer.</h3>
 
 - 🔭 I’m currently working on a YouTube API project data engineering project.
 
