@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex Mieles</h1>
-<h3 align="center">Currently an analytics engineer, aspiring data engineer.</h3>
+<h3 align="center">Currently an data engineer.</h3>
 
-- 🔭 I’m currently working on [a typing progress analysis project.](https://github.com/amieles/keybr-typing-analysis)
+- 🔭 I’m currently working on a YouTube API project data engineering project.
 
-- 📚 I'm currently learning data structures and algorithms.
+- 📚 I'm currently studying up on dimensional modeling.
 
 - 📫 How to reach me **alexmieles222@gmail.com**
 
-- ⚡  Fun Fact I love playing soccer and discovering new music.
+- ⚡  Aside from coding, I love playing soccer and discovering new music.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
